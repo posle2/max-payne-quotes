@@ -23,6 +23,7 @@
 .awesome-face{
     display: block;
     text-align: center;
+    padding-right:10px;
 }
 .damn-quote{
     font-size: 16px;
